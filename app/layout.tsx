@@ -22,14 +22,14 @@ export default function RootLayout({
                 <meta name="description" content={metadata.description} />
                 <meta property="og:title" content={metadata.title} />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://v3x.health" />
-                <meta property="og:image" content="/v3x-health-opengraph.png" />
+                <meta property="og:url" content="https://v3x.page" />
+                <meta property="og:image" content="/v3x-page-opengraph.png" />
                 <meta
                     property="og:description"
                     content={metadata.description}
                 />
                 <meta property="twitter:card" content="summary_large_image" />
-                <meta property="twitter:url" content="https://v3x.health" />
+                <meta property="twitter:url" content="https://v3x.page" />
                 <meta property="twitter:title" content={metadata.title} />
                 <meta
                     property="twitter:description"

@@ -18,13 +18,14 @@ export const Sidebar: FC = () => {
                         ['.contact', 'https://v3x.contact'],
                         ['.domains', 'https://v3x.domains'],
                         ['.chat', 'https://v3x.chat'],
+                        ['.page', 'https://v3x.page'],
                     ].map(([label, href]) => (
                         <li key={label}>
                             <a
                                 href={href}
                                 className={[
                                     'hover:text-blue-500 hover:underline',
-                                    label == '.health'
+                                    label == '.page'
                                         ? 'text-blue-500'
                                         : 'text-notblack',
                                 ].join(' ')}

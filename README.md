@@ -1,3 +1,3 @@
-<a href="https://v3x.health">
-<img src="./public/v3x-health-opengraph.png">
+<a href="https://v3x.page">
+<img src="./public/v3x-page-opengraph.png">
 </a>
