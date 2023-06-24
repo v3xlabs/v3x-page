@@ -7,8 +7,8 @@ import { Footer } from '../components/Footer/Footer';
 import { Sidebar } from '../components/Sidebar/Sidebar';
 
 export const metadata = {
-    title: 'Health & Status',
-    description: 'Analytics, Metrics & Status for the V3X Infrastructure.',
+    title: 'V3X Page',
+    description: 'Just a cool template page for now.',
 };
 export default function RootLayout({
     children,
